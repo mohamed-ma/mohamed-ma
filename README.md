@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mo</h1>
 <h3 align="center">The one who eats... a lot.</h3>
 
-- 🔭 I’m currently working on **A mobile app that is due 9th January**
+- 🔭 I’m currently working on **a mobile app that is due 9th January**
 
 - 🌱 I’m currently learning **ML/AI as well as Cordova and Framework7**
 
