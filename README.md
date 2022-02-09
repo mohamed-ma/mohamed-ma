@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mo</h1>
 
-- 🔭 I’m currently working on **a mobile app that is due 9th January**
-
 - 🌱 I’m currently learning **ML/AI as well as Cordova and Framework7**
-
-- ⚡ Fun fact **I love Slow Blues and listen to Lo-Fi quite regularly**
 
 
 <h3 align="left">Languages and Tools:</h3>
